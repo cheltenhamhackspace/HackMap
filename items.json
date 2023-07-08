@@ -21,26 +21,26 @@
     {
       "name":"Table Saw",
       "expected_areas":[
-        "Free Standing\nMachine Tools"
+        "Free-Standing\nMachine Tools"
       ]
     },
     {
       "name":"Band Saw",
       "expected_areas":[
-        "Free Standing\nMachine Tools"
+        "Free-Standing\nMachine Tools"
       ]
     },
     {
       "name":"Dust Extractor",
       "expected_areas":[
-        "Free Standing\nMachine Tools",
+        "Free-Standing\nMachine Tools",
         "Lathe"
       ]
     },
     {
       "name":"Router Table",
       "expected_areas":[
-        "Free Standing\nMachine Tools"
+        "Free-Standing\nMachine Tools"
       ]
     },
     {
