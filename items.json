@@ -1,0 +1,474 @@
+{
+  "items":[
+    {
+      "name":"Hammer",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Mallet",
+      "expected_areas":[
+        "Right Storage"
+      ],
+      "maybe_areas":[
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Table Saw",
+      "expected_areas":[
+        "Free Standing\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Band Saw",
+      "expected_areas":[
+        "Free Standing\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Dust Extractor",
+      "expected_areas":[
+        "Free Standing\nMachine Tools",
+        "Lathe"
+      ]
+    },
+    {
+      "name":"Router Table",
+      "expected_areas":[
+        "Free Standing\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Router",
+      "expected_areas":[
+        "Right Storage"
+      ],
+      "maybe_areas":[
+        "Left Storage"
+      ]
+    },
+    {
+      "name":"CNC Router",
+      "expected_areas":[
+        "Cabinet"
+      ],
+      "maybe_areas":[
+        "Bench-Top\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Router Bits & collets",
+      "expected_areas":[
+        "Cabinet"
+      ],
+      "maybe_areas":[
+        "Bench-Top\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Wood Lathe",
+      "expected_areas":[
+        "Lathe"
+      ]
+    },
+    {
+      "name":"Metal Lathe",
+      "expected_areas":[
+        "Right Storage"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Planer",
+      "expected_areas":[
+        "Bench-Top\nMachine Tools"
+      ],
+      "maybe_areas":[
+        "Left Storage"
+      ]
+    },
+    {
+      "name":"Thicknesser",
+      "expected_areas":[
+        "Bench-Top\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Thicknesser",
+      "expected_areas":[
+        "Deck"
+      ],
+      "maybe_areas":[
+        "Bench-Top\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Jointer",
+      "expected_areas":[
+        "Bench-Top\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Scroll Saw",
+      "expected_areas":[
+        "Bench-Top\nMachine Tools"
+      ],
+      "maybe_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Jig Saw",
+      "expected_areas":[
+        "Right Storage"
+      ],
+      "maybe_areas":[
+        "Bench-Top\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Pillar Drill",
+      "expected_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Mitre Saw",
+      "expected_areas":[
+        "Right Storage"
+      ],
+      "maybe_areas":[
+        "Free-Standing\nMachine Tools"
+      ]
+    },
+    {
+      "name":"Tape",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Right Storage",
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Tape Measure",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Shelves",
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Square",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Shelves",
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Rule",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Shelves",
+        "Workbench"
+      ]
+    },
+    {
+      "name":"File",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Shelves",
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Rasp",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Shelves",
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Hole Saw",
+      "expected_areas":[
+        "Shelves",
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Spanner",
+      "expected_areas":[
+        "Workbench"
+      ],
+      "maybe_areas":[
+        "Shelves",
+        "Peg Board"
+      ]
+    },
+    {
+      "name":"Pencil",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Pen",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Punch",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Tap & Die",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Drill Bits",
+      "expected_areas":[
+        "Shelves",
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Socket Set",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Knife",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Pliers",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Side Cutters",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Wire Strippers",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Screwdriver",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Allen Key",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Hand Plane",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Chisel",
+      "expected_areas":[
+        "Shelves"
+      ],
+      "maybe_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Ear Defenders",
+      "expected_areas":[
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Safety Goggles",
+      "expected_areas":[
+        "Peg Board"
+      ]
+    },
+    {
+      "name":"Hand Saw",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Spray Booth",
+      "expected_areas":[
+        "Deck"
+      ],
+      "maybe_areas":[
+        "Right Storage",
+        "Left Storage"
+      ]
+    },
+    {
+      "name":"Circular Saw",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Drill Driver",
+      "expected_areas":[
+        "Workbench"
+      ],
+      "maybe_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Clamps",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Glue",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Oil",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Screws & Nails",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Nuts, Bolts & Washers",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Hammer Drill",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Axe",
+      "expected_areas":[
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Calipers",
+      "expected_areas":[
+        "Peg Board"
+      ]
+    },
+    {
+      "name":"Biscuit Jointer",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Track Saw",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Random Orbit Sander",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Spare Saw Blades",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    }
+  ]
+}

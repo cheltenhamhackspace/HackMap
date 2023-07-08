@@ -2,7 +2,7 @@
 A lightweight web app for finding tools in the space. Written in R Shiny to facilitate easy hosting on ShinyApps.io.
 
 ## To Do:
-- [ ]Generalise to multiple rooms with a new tab for each room
+- [ ] Generalise to multiple rooms with a new tab for each room
   - Keep side bar static to allow for same tool to be searched in all rooms
   - Check box for all rooms or current room only
   - Add room to item
