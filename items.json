@@ -46,7 +46,8 @@
     {
       "name":"Router",
       "expected_areas":[
-        "Right Storage"
+        "Right Storage",
+        "Workbench"
       ],
       "maybe_areas":[
         "Left Storage"
@@ -269,6 +270,9 @@
       "expected_areas":[
         "Shelves",
         "Workbench"
+      ],
+      "maybe_areas":[
+        "Peg Board"
       ]
     },
     {
@@ -466,6 +470,106 @@
     },
     {
       "name":"Spare Saw Blades",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Staple Gun",
+      "expected_areas":[
+        "Peg Board"
+      ]
+    },
+    {
+      "name":"Sand Paper",
+      "expected_areas":[
+        "Peg Board"
+      ],
+      "maybe_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Wre Brush",
+      "expected_areas":[
+        "Peg Board"
+      ]
+    },
+    {
+      "name":"Spirit Level",
+      "expected_areas":[
+        "Peg Board"
+      ]
+    },
+    {
+      "name":"Laser Level",
+      "expected_areas":[
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Drill Chuck Key",
+      "expected_areas":[
+        "Workbench",
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Dremel",
+      "expected_areas":[
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Mitre Joiner",
+      "expected_areas":[
+        "Shelves"
+      ]
+    },
+    {
+      "name":"Power Planer",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Hot Plate",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Heat Gun",
+      "expected_areas":[
+        "Right Storage"
+      ]
+    },
+    {
+      "name":"Dustpan & Brush",
+      "expected_areas":[
+        "Cabinet"
+      ]
+    },
+    {
+      "name":"Reciprocating Saw",
+      "expected_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Detail Sander",
+      "expected_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Orbital Sander",
+      "expected_areas":[
+        "Workbench"
+      ]
+    },
+    {
+      "name":"Nail Gun",
       "expected_areas":[
         "Right Storage"
       ]

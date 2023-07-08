@@ -116,6 +116,13 @@
       "length":1000,
       "x":0,
       "y":0
+    },
+    {
+      "name":"Timber Storage",
+      "width":700,
+      "length":2000,
+      "x":5300,
+      "y":7000
     }
   ]
 }
