@@ -18,7 +18,7 @@ ui <- fluidPage(
     tags$link(rel="icon", type="image/png", sizes="16x16", href="/favicon-16x16.png"),
     tags$link(rel="manifest", href="/site.webmanifest")
   ),
-  titlePanel("Hackspace Woodworking Room Map"),
+  titlePanel(title = "Hackspace Woodworking Room Map", windowTitle = "Cheltenham Hackspace Tool Map"),
   sidebarLayout(
     sidebarPanel(
       selectizeInput(
