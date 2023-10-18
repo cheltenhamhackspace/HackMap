@@ -48,18 +48,18 @@
       "y":1000
     },
     {
-      "name":"Right Storage",
+      "name":"Shelving Unit 1",
       "width":2400,
       "length":600,
       "x":3600,
       "y":9400
     },
     {
-      "name":"Left Storage",
+      "name":"Shelving Unit 2",
       "width":2400,
       "length":600,
-      "x":1200,
-      "y":9400
+      "x":3600,
+      "y":8200
     },
     {
       "name":"Free-Standing\nMachine Tools",
@@ -108,7 +108,7 @@
       "width":700,
       "length":2000,
       "x":5300,
-      "y":4500
+      "y":5500
     },
     {
       "name":"Cabinet",
@@ -119,10 +119,10 @@
     },
     {
       "name":"Timber Storage",
-      "width":700,
-      "length":2000,
-      "x":5300,
-      "y":7000
+      "width":2400,
+      "length":600,
+      "x":3600,
+      "y":7600
     }
   ]
 }
